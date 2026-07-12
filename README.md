@@ -1,4 +1,5 @@
 <div align="center">
+<img src="https://raw.githubusercontent.com/maltech0005-tech/maltech0005-tech/refs/heads/main/mine.png" width="25%" align="left" alt="My profile" />
 
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=blue&lines=Hello+Wonderer;Welcome+to+my+GitHub;You+free+to+fork+all+repos;just+be+ready+to+star+😉)](https://git.io/typing-svg)
 
